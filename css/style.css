@@ -1,0 +1,50 @@
+body{
+    font-family: 'Krub', sans-serif;
+}
+
+img{
+    margin: 0 auto;
+}
+
+.fv_a_title{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.fv_a_style{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* CAROUSEL */
+
+.carousel-inner{
+    max-height: 38rem;
+}
+
+.fv-img-center{
+    width: 100%;
+    max-height: 37rem;
+}
+
+/* CARDS */
+
+.fv-card-center{
+    width: auto;
+    margin: auto auto;
+}
+
+/* MAPA */
+.map-container-2{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+.map-container-2 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
